@@ -4,7 +4,7 @@
 ![Platform - Windows](https://img.shields.io/badge/platform-Windows-blue?logo=windows&logoColor=white)  
 ![Platform - Mac](https://img.shields.io/badge/platform-Mac-orange?logo=apple)  
 ![Platform - VPS](https://img.shields.io/badge/platform-Windows%20VPS-blueviolet)  
-![Last Updated](https://img.shields.io/badge/updated-October%2022,%202025-informational)  
+![Last Updated](https://img.shields.io/badge/updated-November%2001,%202025-informational)  
 ![Community](https://img.shields.io/badge/community-active-brightgreen)
 
 A **Telegram Forwarding Bot** is an advanced automation tool that forwards messages—automatically and continuously—from one Telegram account to multiple groups. Whether you're promoting a project or broadcasting content, it helps you stay visible across dozens of groups without lifting a finger.
